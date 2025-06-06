@@ -8,7 +8,6 @@ A machine learning project to predict residential property prices based on vario
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Models](#models)
 - [Results](#results)
