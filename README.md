@@ -1,6 +1,6 @@
 # Property Price Prediction
 
-![Project Banner](https://via.placeholder.com/800x200?text=Property+Price+Prediction)
+![Project Banner](https://miro.medium.com/v2/resize:fit:720/format:webp/0*YMZOAO8QE4bZ4_Rk.jpg)
 
 A machine learning project to predict residential property prices based on various features.
 
@@ -69,11 +69,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Badges
-https://img.shields.io/badge/Python-3.8+-blue.svg
-https://img.shields.io/badge/Scikit--learn-0.24+-orange.svg
-https://img.shields.io/badge/Pandas-1.2+-green.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
 
 ## Author
-Mr. Aniket G. Tayade.
+[@tayade-aniket](https://github.com/tayade-aniket)
